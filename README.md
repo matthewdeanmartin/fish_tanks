@@ -1,7 +1,7 @@
 # fish_tanks
 a bunch of console fish tank apps created by ChatGPT and edited by me
 
-This is a companion site to my slide show and presentation. I'll get it up on youtube someday!
+This is a companion site to my [slide show](https://chatgpt-presentation.onrender.com/) and presentation. I'll get it up on youtube someday!
 
 ## Notes: 
 
